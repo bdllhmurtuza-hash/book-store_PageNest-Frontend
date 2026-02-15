@@ -200,6 +200,102 @@ const products = [
     price: 889,
     image: "new_images/The-Catcher-In-The-Rye.jpg"
   },
+
+  {
+    id: 25,
+    title: "Atomic Habits-Remastered",
+    author: "James Clear",
+    price: 889,
+    image: "new_images/atomic habits.jpg"
+  },
+  
+  {
+    id: 26,
+    title: "The Girl on the Train",
+    author: "Ruskin Bond",
+    price: 889,
+    image: "new_images/the girl on the train.jpg"
+  },
+
+  {
+    id: 27,
+    title: "Man's Search For Meaning",
+    author: "Victor E Frankl",
+    price: 889,
+    image: "new_images/man's search for meaning.jpg"
+  },
+
+  {
+    id: 28,
+    title: "The Power of your Subconscious Mind",
+    author: "Dr Joseph Murphy",
+    price: 889,
+    image: "new_images/the power of subconscious mind.jpg"
+  },
+
+  {
+    id: 29,
+    title: "Influence",
+    author: "Robert B Cialdini",
+    price: 889,
+    image: "new_images/influence.jpg"
+  },
+
+  {
+    id: 30,
+    title: "Thinking, Fast and Slow",
+    author: "Daniel Kahneman",
+    price: 799,
+    image: "new_images/thinking fast and slow.jpg"
+  },
+
+  {
+    id: 31,
+    title: "Why Nations Fail",
+    author: "James A Robinson",
+    price: 859,
+    image: "new_images/why nations fail.jpg"
+  },
+
+  {
+    id: 33,
+    title: "Predictability Irrational",
+    author: "Dan Ariely",
+    price:639,
+    image: "new_images/predictability irrational.jpg"
+  },
+
+  {
+    id: 34,
+    title: " The Goldfinch",
+    author: "Donna Tartt",
+    price:799,
+    image: "new_images/goldfench.jpg"
+  },
+
+  {
+    id: 35,
+    title: "The Starless Sea",
+    author: "Erin Morgenstern",
+    price:769,
+    image: "new_images/starless.jpg"
+  },
+
+  {
+    id: 36,
+    title: "Six of Crows",
+    author: "Leigh Bardugo",
+    price:899,
+    image: "new_images/sixcrow.jpg"
+  },
+
+  {
+    id: 37,
+    title: "A Court of Thorns and Roses",
+    author: "Sarah J. Maas",
+    price:759,
+    image: "new_images/sarahroses.jpg"
+  },
   
   
 ];
