@@ -73,7 +73,7 @@ Screenshots:
 * ![Sell Book Page](images/sellbook.png)
 ⸻
 
-Improvements which can be implemented in future:
+🔮 Future Improvements
 
 * Database integration (SQLite/MySQL)
 * Search and filtering functionality
@@ -85,8 +85,8 @@ Improvements which can be implemented in future:
 
 ⸻
 
-Author -
+👨‍💻 Author
 
-Mohammed Abdullah Murtuza
+Abdullah Murtuza
 
 Engineering Student | Python & AI/ML Enthusiast
